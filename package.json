@@ -26,7 +26,7 @@
     "url": "https://github.com/FantoX/Atlas-MD/issues"
   },
   "homepage": "https://github.com/FantoX/Atlas-MD#readme",
-  "dependencies": {
+  "dependencies": {"qrcode-terminal": "^0.12.0"
     "@anthropic-ai/sdk": "^0.82.0",
     "@fantox01/lyrics-scraper": "latest",
     "@fantox01/search-it": "^1.0.0",
